@@ -14,6 +14,11 @@
 
 👉 **[megomaged/claude-3d-film-studio](https://github.com/megomaged/claude-3d-film-studio)** — free, MIT.
 
+### ✍️ Claude Line Portrait
+**Turn anything into glowing light lines and particles.** Faces, product photos, logos, icons and any text (Arabic included) draw themselves, assemble, blow away, glitch and morph into each other. Export a frame-exact MP4, or a transparent ProRes / WebM / PNG sequence for After Effects, Premiere, CapCut and Remotion.
+
+👉 **[megomaged/claude-line-portrait](https://github.com/megomaged/claude-line-portrait)** — free, MIT.
+
 ### 🎁 Free AI resources
 Cheat sheets, presentations and starter kits from my daily AI series:
 RAG in 12 concepts · Inside an AI agent · Claude Code starter kit · The AI app stack · The Transformer, one sentence at a time · Build your personal AI assistant · AI engineer roadmap.
